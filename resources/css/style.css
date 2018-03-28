@@ -7,9 +7,22 @@ h1{
 }
 h2 {
     color: white;
+    font-size: 42px;
+    font-weight: 300;
 }
 body {
     background-color: black;
     text-align: center;
-    color: grey;
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+}
+
+.dnlex{
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#copyright{
+  text-align: right;
 }
